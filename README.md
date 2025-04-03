@@ -1,4 +1,4 @@
-# jap01-ilandry-ucsb
+# jpa01-ilandry-ucsb
 
 * TODO: Change the title of this README (above)
   in the text `# STARTER-jpa01` above
